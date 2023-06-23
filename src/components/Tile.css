@@ -1,0 +1,6 @@
+ .Tile{
+    border: 2px solid black;
+    margin: 3px;
+    background-color: rgb(255, 200, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

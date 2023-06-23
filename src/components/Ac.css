@@ -1,0 +1,12 @@
+.ac{
+padding: 10px;
+  margin: auto;
+  background-color:antiquewhite;
+  /* width: 50%; */
+  text-align: center;
+  background-color:rgb(0, 157, 255);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bar{
+ align-content: center;
+}
